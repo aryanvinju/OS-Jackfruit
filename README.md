@@ -104,10 +104,13 @@ make clean
 ## Output Screenshots
 1.
 <img width="975" height="169" alt="image" src="https://github.com/user-attachments/assets/3983544d-3fc8-47a7-8de3-bda22ff471e7" />
+
 2.
 <img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/21e6f4a2-83dd-4b38-b6d0-4b8b549a20e6" />
+
 3.
 <img width="975" height="304" alt="image" src="https://github.com/user-attachments/assets/95be4cca-f67d-4c5e-9517-3b4a66fcc9f2" />
+
 4.
 <img width="975" height="275" alt="image" src="https://github.com/user-attachments/assets/e693f4fd-a244-44e1-bbc8-f25998f831aa" />
 
