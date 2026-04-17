@@ -102,20 +102,20 @@ make clean
 ```
 ---
 ## Output Screenshots
-1.
+Screenshot 1 — Multi-container supervision
 <img width="975" height="169" alt="image" src="https://github.com/user-attachments/assets/3983544d-3fc8-47a7-8de3-bda22ff471e7" />
 
-2.
+Screenshot 2 — Metadata tracking
 <img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/21e6f4a2-83dd-4b38-b6d0-4b8b549a20e6" />
 
-3.
+Screenshot 3 — Bounded-buffer logging
 <img width="975" height="304" alt="image" src="https://github.com/user-attachments/assets/95be4cca-f67d-4c5e-9517-3b4a66fcc9f2" />
 
-4.
+Screenshot 4 — CLI and IPC
 <img width="975" height="275" alt="image" src="https://github.com/user-attachments/assets/e693f4fd-a244-44e1-bbc8-f25998f831aa" />
 
 
-7.
+Screenshot 7 — Scheduling experiment
 <img width="975" height="379" alt="image" src="https://github.com/user-attachments/assets/ed2f48f4-9388-45ff-81a8-070cb1269536" />
 
 
